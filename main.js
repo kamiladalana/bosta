@@ -1,2 +1,2 @@
 let nomeUsuario = 'Kamila'
-alert = 'nomeUsuario'
+alert = nomeUsuario;
