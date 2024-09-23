@@ -1,2 +1,3 @@
 let nomeUsuario = 'Kamila';
-alert (nomeUsuario)
+// alert (nomeUsuario)
+function soma (num1, num2)
