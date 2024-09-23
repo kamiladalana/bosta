@@ -9,8 +9,3 @@ function areaQuadrado (lado){
 }
 console.log (areaQuadrado)
 
-let areaTriangulo =
-function (        ) {
-    return c2=a2+b2,
-}
-console.log ()
