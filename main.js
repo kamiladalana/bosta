@@ -35,7 +35,8 @@ let estados=['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Espír
     //     console.log (estados[i])
     // i++; }
 
-    for (let i = 0; i < estados.length; i++) {
-        console.log= (estados[i]);
-        
-    }
+for (let i = 0; i < array.length; i++) {
+    console.log(estados[i])
+    
+}
+    
