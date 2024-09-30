@@ -39,7 +39,7 @@ for (let i = 0; i < estados.length; i++) {
     console.log(estados[i])
     
 }
-    let idade =46;
+    let idade= parseInt(prompt('qual a sua idade?'));
     if (idade>17) {
         console.log('ja pode dirigir')
         
